@@ -1,0 +1,12 @@
+fastapi[all]
+uvicorn[standard]
+sqlalchemy
+redis
+pytest
+pydantic
+alembic
+asyncpg
+passlib
+psycopg2-binary
+databases
+pytest
